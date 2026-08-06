@@ -1,0 +1,419 @@
+﻿{
+  "Sheet1": [
+    {
+      "OUTFIT 1 ": "NAME:",
+      "__EMPTY": "First Impression"
+    },
+    {
+      "OUTFIT 1 ": "SEASON",
+      "__EMPTY": "winter"
+    },
+    {
+      "OUTFIT 1 ": "FORMALITY",
+      "__EMPTY": "Casual"
+    },
+    {
+      "OUTFIT 1 ": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_1": "IMAGE",
+      "__EMPTY_2": "LINK"
+    },
+    {
+      "OUTFIT 1 ": "Jacket",
+      "__EMPTY": "Rarerabbit",
+      "__EMPTY_2": "https://www.amazon.in/Rare-Rabbit-regular-plain-jacket/dp/B0G6L5K7XX?th=1&psc=1"
+    },
+    {
+      "OUTFIT 1 ": "Shirt"
+    },
+    {
+      "OUTFIT 1 ": "T-shirt",
+      "__EMPTY": "handm",
+      "__EMPTY_2": "https://www.myntra.com/sweaters/h26m/hm-men-regular-fit-turtleneck-jumper/31781803/buy "
+    },
+    {
+      "OUTFIT 1 ": "Pant",
+      "__EMPTY": "handm",
+      "__EMPTY_2": "https://www.nykaafashion.com/h-m-slim-fit-suit-trousers/p/24607957?adsource=shopping_india&skuId=24604914&utm_content=ads&utm_source=GooglePaid&utm_medium=PLA&utm_campaign=SSC_TopBrands_PFS24&gad_source=1&gad_campaignid=21933173408&gbraid= "
+    },
+    {
+      "OUTFIT 1 ": "Belt",
+      "__EMPTY": "bulchee",
+      "__EMPTY_2": "https://www.amazon.in/bulchee-Heavy-Jeans-Leather-Casual/dp/B0CRNSRKGJ/ref=asc_df_B0CRNSRKGJ?mcid=676357caa65e330b9fabe08bf158f644&tag=googleshopdes-21&linkCode=df0&hvadid=710132811332&hvpos=&hvnetw=g&hvrand=7250087871609434488&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301185&hvtargid=pla-2314797976923&hvocijid=7250087871609434488-B0CRNSRKGJ-&hvexpln=0&gad_source=1&th=1&psc=1 "
+    },
+    {
+      "OUTFIT 1 ": "Watch",
+      "__EMPTY": "Titan",
+      "__EMPTY_2": "https://www.amazon.in/Titan-Elegance-Analog-Second-Leather/dp/B0FCLNW1JM/ref=asc_df_B0FCLNW1JM?mcid=f72a84399ead3737bbc8a607d0c4f71a&tag=googleshopdes-21&linkCode=df0&hvadid=774332647150&hvpos=&hvnetw=g&hvrand=11684475138879302034&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301185&hvtargid=pla-2535379688837&hvocijid=11684475138879302034-B0FCLNW1JM-&hvexpln=0 "
+    },
+    {
+      "OUTFIT 1 ": "Bag"
+    },
+    {
+      "OUTFIT 1 ": "Perfume",
+      "__EMPTY": "Tom ford",
+      "__EMPTY_2": "https://www.nykaaman.com/tom-ford-tobacco-vanille-eau-de-parfum/p/18134133?ptype=product&skuId=16860803&utm_content=ads&utm_source=GooglePaid&utm_medium=SSC&utm_campaign=SSC_Grooming_Purchase_TomFord_041125&gad_source=1&gad_campaignid=23218065993&gbraid=0AAAAAC969uuqui-Lajda4evMGW_w6InTL&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nuXhYBP7vxQgSO7B0vTAjN1LaHqLxpIgmGt9CjukGBhGfpZPRMPxNxoCyOoQAvD_BwE "
+    },
+    {
+      "OUTFIT 1 ": "Socks",
+      "__EMPTY": "handm",
+      "__EMPTY_2": "https://www.nykaafashion.com/h-m-2-pack-bamboo-viscose-blend-socks-black/p/23360886?adsource=shopping_india&skuId=23360355&utm_content=ads&utm_source=GooglePaid&utm_medium=PLA&utm_campaign=SSC_TopBrands_PFS24&gad_source=1&gad_campaignid=21933173408&gbraid= "
+    },
+    {
+      "OUTFIT 1 ": "Shoes",
+      "__EMPTY": "woodland",
+      "__EMPTY_2": "https://www.nykaafashion.com/woods-men-dark-brown-chelsea-boots/p/24036469 "
+    },
+    {
+      "OUTFIT 1 ": "Wallet"
+    }
+  ],
+  "Sheet2": [
+    {
+      "OUTFIT 2": "NAME:",
+      "__EMPTY": "Man in Black"
+    },
+    {
+      "OUTFIT 2": "SEASON",
+      "__EMPTY": "winter"
+    },
+    {
+      "OUTFIT 2": "FORMALITY",
+      "__EMPTY": "Formal"
+    },
+    {
+      "OUTFIT 2": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_1": "LINK"
+    },
+    {
+      "OUTFIT 2": "Glasses",
+      "__EMPTY": "Lenskart",
+      "__EMPTY_1": "https://www.lenskart.com/vincent-chase-vc-e14938-silver-eyeglasses.html?rd=n&srsltid=AfmBOorMMEd88VyduAmot4NMr_auggx8NGJ-7-nEI1qtqA3Lx0ZK6h50Hsk "
+    },
+    {
+      "OUTFIT 2": "Jacket",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "https://www.nykaafashion.com/h-m-black-regular-fit-single-breasted-jacket/p/23247557?adsource=shopping_india&skuId=23245771&utm_content=ads&utm_source=GooglePaid&utm_medium=PLA&utm_campaign=SSC_TopBrands_PFS24&gad_source=1&gad_campaignid=21933173408&gbraid= "
+    },
+    {
+      "OUTFIT 2": "Shirt",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "https://www.nykaafashion.com/h-m-regular-fit-oxford-shirt-white/p/23368278?adsource=shopping_india&skuId=23361733&utm_content=ads&utm_source=GooglePaid&utm_medium=PLA&utm_campaign=SSC_TopBrands_PFS24&gad_source=1&gad_campaignid=21933173408&gbraid=0AAAAAC968R3IGIYPNuJ6iT_4Xatrq3hmz&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nlGSpdUmZeZaemprdePKzonwO5ybIXqXP7BxzGj2FL3Qh_Ek-yHBfhoCwCUQAvD_BwE "
+    },
+    {
+      "OUTFIT 2": "T-shirt"
+    },
+    {
+      "OUTFIT 2": "Pant",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "https://www.nykaaman.com/h-m-men-black-regular-fit-tailored-trousers/p/28394058?ptype=product&skuId=28393480&utm_content=ads&utm_source=GooglePaid&utm_medium=SSC&utm_campaign=SSC_Fashion_HnM_Backup_140726&gad_source=1&gad_campaignid=24035192293&gbraid=0AAAAAC969utVbG1c7b3d5XNkhMyfTkISd&gclid=CjwKCAjwvsvTBhBaEiwAmf-3ns1lp0yJxS2Mceaqu6hhbCyf3vc2UBLM-60fgBLnPigwvljrK_ewMxoC8UAQAvD_BwE"
+    },
+    {
+      "OUTFIT 2": "Belt",
+      "__EMPTY": "M&S",
+      "__EMPTY_1": "https://www.marksandspencer.in/smart-belt/p/000000060635745004.html?utm_source=google&utm_medium=search&utm_campaign=23968075815&adgroupid=198569204580&utm_content=814104373108&utm_term=&gad_source=1&gad_campaignid=23968075815&gbraid=0AAAAACf8bcTZPW_KrOKj0PJMHp2yUhZ99&gclid=CjwKCAjwvsvTBhBaEiwAmf-3niwqnrZriHZyAgNLWHW211D33cfYs8H-4dkgBuyDkgik0UuhOlJ7JxoChfEQAvD_BwE "
+    },
+    {
+      "OUTFIT 2": "Watch",
+      "__EMPTY": "timex",
+      "__EMPTY_1": "https://www.amazon.in/TIMEX-Stainless-Bracelet-Resistant-Watches/dp/B0F9TVQCRB/ref=asc_df_B0F9TVQCRB?mcid=e57bbe4f03fb35e396adef4ee0fd0209&tag=googleshopdes-21&linkCode=df0&hvadid=710055860521&hvpos=&hvnetw=g&hvrand=8163441407403803033&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301185&hvtargid=pla-2445825831821&hvocijid=8163441407403803033-B0F9TVQCRB-&hvexpln=0 "
+    },
+    {
+      "OUTFIT 2": "Bag",
+      "__EMPTY": "Daily objects",
+      "__EMPTY_1": "https://www.amazon.in/DailyObjects-Briefcase-Messenger-Detachable-Compatible/dp/B0CJYJ7KQT/ref=asc_df_B0CJYJ7KQT?mcid=f99947f2564f3f8fa06ed050276cb5b7&tag=googleshopdes-21&linkCode=df0&hvadid=710007476539&hvpos=&hvnetw=g&hvrand=8494837784788087225&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301185&hvtargid=pla-2262742745702&hvocijid=8494837784788087225-B0CJYJ7KQT-&hvexpln=0&gad_source=1&th=1&psc=1"
+    },
+    {
+      "OUTFIT 2": "Perfume",
+      "__EMPTY": "Bvlgari",
+      "__EMPTY_1": "https://luxury.tatacliq.com/bvlgari-man-in-black-eau-de-parfum-60-ml/p-mp000000013021768?cid=ps:HM_TCL_Shopping_AOV_5K_090526_23827405383_AOV_5K&gad_source=1&gad_campaignid=23827405383&gbraid=0AAAAADPC9t3iASFoOpct7FhuO9oBvigy_&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nqle8xulXvtsgz3JiYKJs96j0ab3UXRQew740kvRFluJCEhgBY0QcxoCJvcQAvD_BwE "
+    },
+    {
+      "OUTFIT 2": "Socks",
+      "__EMPTY": "uniqlo",
+      "__EMPTY_1": "https://www.uniqlo.com/in/en/products/E457288-000/00?srsltid=AfmBOopUjpcPezoexz6lPN_qtPdpC-NIeEjGHATTg-n78M5GYDBX9Wqk&colorDisplayCode=09&sizeDisplayCode=025 "
+    },
+    {
+      "OUTFIT 2": "Shoes",
+      "__EMPTY": "Bridlen",
+      "__EMPTY_1": "https://bridlen.com/products/bespoke-grade-straight-tip-oxford-1?variant=32032872071271&gad_source=4&gad_campaignid=20988755927&gbraid=0AAAAACQlmWo9YsMfUmF9JCSfOWHBcJBYM&gclid=CjwKCAjwvsvTBhBaEiwAmf-3niqn1mINcGHbb2Zz3p1XfveNQJ4rORf1w9a0dws7aEHJphtC4QnMDxoCa1EQAvD_BwE "
+    },
+    {
+      "OUTFIT 2": "Wallet",
+      "__EMPTY": "Daily objects",
+      "__EMPTY_1": "https://www.dailyobjects.com/black-even-leatherite-bi-fold-wallet/dp?f=pid~BLK-EVEN-LTHRT-BIFLD-WLT&gad_source=1&gad_campaignid=16159641727&gbraid=0AAAAADpZgvZYEhE-x2Q8zM-pw6p9fgZwq&gclid=CjwKCAjwvsvTBhBaEiwAmf-3njiFES9-w5hmKqkKEr8JZ3QAjfjSfFDKAAasARTER_ofHQp_vkI6qhoCkvYQAvD_BwE "
+    }
+  ],
+  "Sheet3": [
+    {
+      "OUTFIT 3:": "NAME:",
+      "__EMPTY": "Old Money weekend"
+    },
+    {
+      "OUTFIT 3:": "SEASON",
+      "__EMPTY": "spring"
+    },
+    {
+      "OUTFIT 3:": "FORMALITY",
+      "__EMPTY": "casual"
+    },
+    {
+      "OUTFIT 3:": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_1": "LINK"
+    },
+    {
+      "OUTFIT 3:": "cap",
+      "__EMPTY": "Ralph",
+      "__EMPTY_1": "https://www.ralphlauren.global/in/en/the-ralph-logo-denim-ball-cap-3616855151407.html?srsltid=AfmBOoqKUmOeeXahAoadksG7RzJEpyqO_KGKdM2tGE-skFF5N6I4yYxa5HE "
+    },
+    {
+      "OUTFIT 3:": "Glasses",
+      "__EMPTY": "rayban",
+      "__EMPTY_1": "https://india.ray-ban.com/clubmaster-0rb301699058.html "
+    },
+    {
+      "OUTFIT 3:": "Jacket",
+      "__EMPTY": "NA",
+      "__EMPTY_1": "NA"
+    },
+    {
+      "OUTFIT 3:": "Shirt",
+      "__EMPTY": "NA",
+      "__EMPTY_1": "NA"
+    },
+    {
+      "OUTFIT 3:": "T-shirt",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "https://www.nykaaman.com/h-m-men-blue-regular-fit-cotton-rugby-polo-t-shirt/p/28068538?ptype=product&skuId=28068427&utm_content=ads&utm_source=GooglePaid&utm_medium=SSC&utm_campaign=SSC_Fashion_HnM_Backup_140726&gad_source=1&gad_campaignid=24035192293&gbraid=0AAAAAC969utVbG1c7b3d5XNkhMyfTkISd&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nuMncdYPf_LaiqQbux3AHw1UKBELbVFV1pgJtk5jNmUB1TvUs21FThoCGjMQAvD_BwE "
+    },
+    {
+      "OUTFIT 3:": "Pant",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "https://www.nykaaman.com/h-m-men-blue-relaxed-jeans/p/28147946?ptype=product&skuId=28147574&utm_content=ads&utm_source=GooglePaid&utm_medium=SSC&utm_campaign=SSC_Fashion_HnM_Backup_140726&gad_source=1&gad_campaignid=24035192293&gbraid=0AAAAAC969utVbG1c7b3d5XNkhMyfTkISd&gclid=CjwKCAjwvsvTBhBaEiwAmf-3ntYRQG0u3vutf4km5D-FRPiFLRR0p8zVB_gXdKipS3_hJLpFexkGdRoCFawQAvD_BwE "
+    },
+    {
+      "OUTFIT 3:": "Belt",
+      "__EMPTY": "NA"
+    },
+    {
+      "OUTFIT 3:": "Watch",
+      "__EMPTY": "seiko",
+      "__EMPTY_1": "https://www.amazon.com/SEIKO-SSC961J8-Prospex-SPEEDTIMER/dp/B0GTV7RSX8 "
+    },
+    {
+      "OUTFIT 3:": "watch strap",
+      "__EMPTY": "helloedc",
+      "__EMPTY_1": "https://www.helloedc.com/products/play-illusion-premium-denim-leather-watch-strap?variant=50344027128103&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google&utm_medium=cpc&utm_campaign=HEllO+%7C+Shopping+Campaign+%7C+Brand+Keywords&gad_source=1&gad_campaignid=23634495348&gbraid=0AAAAAqqQhysr62bPT4G66hnqwScHsc1WN&gclid=CjwKCAjwvsvTBhBaEiwAmf-3njDKmRo2-Wx1PxFKmea7v-XJRHVtmnvmyfLeuKezzoqdUiPVgUCVFxoCWb0QAvD_BwE"
+    },
+    {
+      "OUTFIT 3:": "Bag",
+      "__EMPTY": "NA"
+    },
+    {
+      "OUTFIT 3:": "Perfume",
+      "__EMPTY": "mancera",
+      "__EMPTY_1": "https://www.amazon.in/Mancera-Cedrat-Boise-Eau-Parfum/dp/B0GDW6339Z "
+    },
+    {
+      "OUTFIT 3:": "Socks",
+      "__EMPTY": "the tie hub",
+      "__EMPTY_1": "https://www.myntra.com/socks/the+tie+hub/the-tie-hub-men-breathable-no-show-loafer-shoe-liners/21981656/buy "
+    },
+    {
+      "OUTFIT 3:": "Shoes",
+      "__EMPTY": "adidas",
+      "__EMPTY_1": "https://www.adidas.co.in/samba-decon-shoes/IF0642.html "
+    },
+    {
+      "OUTFIT 3:": "Wallet",
+      "__EMPTY": "NA"
+    }
+  ],
+  "Sheet4": [
+    {
+      "OUTFIT 4:": "NAME:",
+      "__EMPTY": "cozy summer"
+    },
+    {
+      "OUTFIT 4:": "SEASON",
+      "__EMPTY": "summer"
+    },
+    {
+      "OUTFIT 4:": "FORMALITY",
+      "__EMPTY": "casual"
+    },
+    {
+      "OUTFIT 4:": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_1": "LINK"
+    },
+    {
+      "OUTFIT 4:": "Glasses",
+      "__EMPTY": "rayban",
+      "__EMPTY_1": "https://www.ray-ban.com/usa/sunglasses/RB2140Foriginal%20wayfarer%20classic-black/8056597147347 "
+    },
+    {
+      "OUTFIT 4:": "Shirt",
+      "__EMPTY": "uniqlo",
+      "__EMPTY_1": "https://www.uniqlo.com/in/en/products/E455957-000/00?colorDisplayCode=41&sizeDisplayCode=003&srsltid=AfmBOor-f7Wb5_IGcrZiJPRbj-9lSp66E7o-pITTLxqwhRaTEys9YEx4OLk "
+    },
+    {
+      "OUTFIT 4:": "Pant",
+      "__EMPTY": "h&m",
+      "__EMPTY_1": "Buy H&M Slim Fit Suit Trousers (40R) Online"
+    },
+    {
+      "OUTFIT 4:": "Watch",
+      "__EMPTY": "seiko",
+      "__EMPTY_1": "https://justintime.in/products/seiko-presage-men-automatic-yellow-dial-analog-stainless-steel-watch-srpl75j1?variant=52121193644307&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooM8qyOFdndtZvL8kwHi_Z3Cnw3SHacx33X4cDoTwT_HHmgbkK-UKE "
+    },
+    {
+      "OUTFIT 4:": "Bag",
+      "__EMPTY": "daily objects",
+      "__EMPTY_1": "https://www.amazon.in/DailyObjects-Ivory-Forest-Shoulder-Handcrafted-premium/dp/B0DDCH59VL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AXOGFIT0PZZ7G&th=1 "
+    },
+    {
+      "OUTFIT 4:": "Perfume",
+      "__EMPTY": "afnan",
+      "__EMPTY_1": "https://www.myntra.com/perfume/afnan/afnan-men-turathi-blue-long-lasting-eau-de-parfum--90-ml/35365392/buy?utm_source=dms_google&utm_medium=dms_pmax_cpc&utm_campaign=dms_google_pmax_cpc_shopping_TROAS_FB_BPC_New&gad_source=4&gad_campaignid=23515415666&gbraid=0AAAAADoxBh4idBXf6uv34zhds4zS0u-Zj&gclid=CjwKCAjwvsvTBhBaEiwAmf-3ntFcX0UOQlm_--cv0Qv0tLyolGdmqYYqAd2yPpi3B4sZ0ynZH7fX6hoC6JEQAvD_BwE "
+    },
+    {
+      "OUTFIT 4:": "chappal",
+      "__EMPTY": "snitch",
+      "__EMPTY_1": "https://www.nykaaman.com/snitch-men-brown-vegan-strappy-sandals/p/27296653?ptype=product&skuId=27296566&utm_content=ads&utm_source=GooglePaid&utm_medium=SSC&utm_campaign=SSC_Fashion_CatchAll_100226&gad_source=4&gad_campaignid=23551057631&gbraid=0AAAAAC969uvmNiHYQ7eeTSdD3XDHQFMVZ&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nqXyi5T1Z7lW6D6pPxMQY36Ljw4SswGMwCMnMQTwMkqyq5Q5GQJAbRoCm4MQAvD_BwE "
+    },
+    {
+      "OUTFIT 4:": "Wallet"
+    }
+  ],
+  "Sheet5": [
+    {
+      "OUTFIT 5": "NAME:",
+      "__EMPTY": "utility uniform"
+    },
+    {
+      "OUTFIT 5": "SEASON",
+      "__EMPTY": "winter"
+    },
+    {
+      "OUTFIT 5": "FORMALITY",
+      "__EMPTY": "casual"
+    },
+    {
+      "OUTFIT 5": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_1": "LINK"
+    },
+    {
+      "OUTFIT 5": "Glasses",
+      "__EMPTY": "rayban",
+      "__EMPTY_1": "https://luxe.ajio.com/ray-ban-uv-protected-full-rim-sunglasses/p/460299458_black#gmf "
+    },
+    {
+      "OUTFIT 5": "Sweatshirt",
+      "__EMPTY": "tommyhilfiger",
+      "__EMPTY_1": "https://luxury.tatacliq.com/tommy-hilfiger-europe-collection-khaki-cotton-regular-fit-solid-sweatshirt/p-mp000000027106911?cid=ps:Google_GL_Perf_Shopping_Pur_Sok:AllAudience_Both_AllAge_MF_Auto:AllProducts_Carousel_AllProduct_BAU_121223_20858413166&gad_source=1&gad_campaignid=20858413166&gbraid=0AAAAADPC9t2eiEm_vfKw4PExlejYEVckh&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nhpUyozxqF1DpQXQ2b5FT0mWycPCOuO97sDNjtX26auA43FoqfPTCRoC3YsQAvD_BwE"
+    },
+    {
+      "OUTFIT 5": "T-Shirt",
+      "__EMPTY": "marchtee",
+      "__EMPTY_1": "https://www.marchtee.com/whites?utm_content=searchcv_whites&gad_source=1&gad_campaignid=22635165835&gbraid=0AAAAADOAV8c8LQuPtAR5gqnmhR6VZui4v&gclid=CjwKCAjwvsvTBhBaEiwAmf-3npsXf6gZzbagk8NDvVL-AIeq-Pk4Q5glSRMHEPQ3acLz2eHGKXTIfRoC-G8QAvD_BwE"
+    },
+    {
+      "OUTFIT 5": "Pant",
+      "__EMPTY": "tommy hilfiger",
+      "__EMPTY_1": "https://www.myntra.com/trousers/tommy+hilfiger/tommy-hilfiger-men-mid-rise-regular-fit-cargos-trousers/36669294/buy?utm_source=dms_google&utm_medium=dms_pmax_cpc&utm_campaign=dms_google_pmax_cpc_shopping_CatchAll_TROAS_New&gad_source=1&gad_campaignid=23467263074&gbraid=0AAAAADoxBh7FPBQXQhxQcPM7mu2U5VMh8&gclid=CjwKCAjwvsvTBhBaEiwAmf-3nt3iDdmTfIonqRt__A0ve-37ENSfrFIvwaYO8R8UABrQdPqAHjx6nhoC4S0QAvD_BwE"
+    },
+    {
+      "OUTFIT 5": "Watch",
+      "__EMPTY": "casio",
+      "__EMPTY_1": "https://www.amazon.in/Casio-G-Shock-GM-5600UB-1DR-Digital-Black/dp/B0D5HB5Z2Q/ref=asc_df_B0D5HB5Z2Q?mcid=d3b1eb921e993a9283eef6efc54833fe&tag=googleshopdes-21&linkCode=df0&hvadid=710055860521&hvpos=&hvnetw=g&hvrand=12969090609382841480&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301185&hvtargid=pla-2318893225903&psc=1&hvocijid=12969090609382841480-B0D5HB5Z2Q-&hvexpln=0&gad_source=1 "
+    },
+    {
+      "OUTFIT 5": "Perfume",
+      "__EMPTY": "Loewe",
+      "__EMPTY_1": "https://www.lojaglamourosa.com/in/en/loewe-loewe-7-cobalt-edp---50ml-8426017066358"
+    },
+    {
+      "OUTFIT 5": "Socks",
+      "__EMPTY": "uniqlo",
+      "__EMPTY_1": "https://www.uniqlo.com/in/en/products/E489014-000/00?srsltid=AfmBOor9T4--oix69gOsAwau4PuB7K7lsDIiNrSxBMZ_tuX5MJ2wTkLI&colorDisplayCode=01&sizeDisplayCode=025 "
+    },
+    {
+      "OUTFIT 5": "Shoes",
+      "__EMPTY": "myntra",
+      "__EMPTY_1": "https://www.myntra.com/casual-shoes/nike/nike-air-jordan-1-low-mens-shoes/38433569/buy?utm_source=dms_google&utm_medium=dms_pmax_cpc&utm_campaign=dms_google_pmax_cpc_shopping_CatchAll_TROAS_New&gad_source=1&gad_campaignid=23467263074&gbraid=0AAAAADoxBh7FPBQXQhxQcPM7mu2U5VMh8&gclid=CjwKCAjwvsvTBhBaEiwAmf-3ngKw0vmkzaB3-wjTDdk3W7KMPaDhTVrOFq0wlZcQOlZNjLcyuYC6DRoCO8AQAvD_BwE"
+    }
+  ],
+  "Sheet6": [
+    {
+      "OUTFIT 5": "NAME:",
+      "__EMPTY": "NT2"
+    },
+    {
+      "OUTFIT 5": "SEASON",
+      "__EMPTY": "summer/spring"
+    },
+    {
+      "OUTFIT 5": "FORMALITY",
+      "__EMPTY": "casual"
+    },
+    {
+      "OUTFIT 5": "GARMENT",
+      "__EMPTY": "BRAND",
+      "__EMPTY_2": "Link"
+    },
+    {
+      "OUTFIT 5": "Glasses",
+      "__EMPTY": "rayban",
+      "__EMPTY_2": "https://india.ray-ban.com/clubmaster-0rb301699058.html"
+    },
+    {
+      "OUTFIT 5": "Shacket",
+      "__EMPTY": "BSC",
+      "__EMPTY_2": "https://www.bombayshirts.com/products/mason-linen-cotton-shacket-ecru"
+    },
+    {
+      "OUTFIT 5": "Shirt",
+      "__EMPTY": "US polo Assn",
+      "__EMPTY_2": "https://www.myntra.com/shirts/uspoloassndenimco/us-polo-assn-denim-co-men-comfort-slim-fit-opaque-casual-shirt/30714495/buy"
+    },
+    {
+      "OUTFIT 5": "Pant",
+      "__EMPTY": "monks of method",
+      "__EMPTY_2": "https://monksofmethod.com/products/hanoi-classic-chino?color=olive-cotton-twill&variant=44021488681206"
+    },
+    {
+      "OUTFIT 5": "Watch",
+      "__EMPTY": "casio",
+      "__EMPTY_2": "https://www.amazon.in/Casio-Edifice-EFR-575L-7ADF-Analog-Cream/dp/B0F37NWKZ7/ref=asc_df_B0F37NWKZ7?mcid=a6750d1a795d3e1782b5a262d85bbd3f&tag=googleshopmob-21&linkCode=df0&hvadid=710064585538&hvpos=&hvnetw=g&hvrand=2404050802476843527&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9062210&hvtargid=pla-2451229291364&psc=1&hvocijid=2404050802476843527-B0F37NWKZ7-&hvexpln=0&gad_source=1"
+    },
+    {
+      "OUTFIT 5": "Perfume",
+      "__EMPTY": "issey miyake",
+      "__EMPTY_2": "https://belvish.com/products/issey-miyake-le-sel-d-issey-edp-for-men?variant=67428675649840&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=Google&utm_medium=google_paidpmax&utm_campaign=Pmax_TopCities&gad_source=1&gad_campaignid=21895518448&gbraid=0AAAAAoOllok-8gNwDEu84MW46gqVYhmrq&gclid=CjwKCAjw4dDTBhAqEiwAkHYmSqblpch8A_MzPXR1u3QMPcBaz7Rzq_BTbt1eOV0x-ZWjrXtKndraYRoCNSwQAvD_BwE"
+    },
+    {
+      "OUTFIT 5": "Socks",
+      "__EMPTY": "the tie hub",
+      "__EMPTY_2": "https://www.thetiehub.com/product/breathable-solid-khaki-low-cut-loafer-socks-for-men"
+    },
+    {
+      "OUTFIT 5": "Shoes",
+      "__EMPTY": "rare rabbit",
+      "__EMPTY_2": "https://www.myntra.com/casual-shoes/rare%2brabbit/rare-rabbit-men-round-toe-slip-on-loafers/36225131/buy?gad_campaignid=23741504045&gad_source=1&gclid=CjwKCAjwx7LSBhB3EiwAjcodxGrzhUew7BHteKwyhbchaUAxtLfSiWunB0RlVsyikVxz95m54y9NKxoCWncQAvD_BwE&keyword=&matchtype=&placement=&target=&utm_campaign=dms_google_pmax_cpc_Myntra_Men_Footwear_FB_SOK_DPL&utm_medium=dms_pmax_cpc&utm_source=dms_google"
+    },
+    {
+      "OUTFIT 5": "belt",
+      "__EMPTY": "fossil",
+      "__EMPTY_2": "https://www.myntra.com/belts/fossil/fossil-men-braided-leather-belt/31593270/buy?utm_source=social_share&utm_medium=social_share_pdp&utm_campaign=UFCdcHeg2mUMcbKf&shared=true"
+    },
+    {
+      "OUTFIT 5": "bag",
+      "__EMPTY": "daily objects",
+      "__EMPTY_2": "https://www.dailyobjects.com/natural-white-navy-all-time-tote/dp?f=pid~NTURL-WHT-NVY-ALL-TIM-TOTE"
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 type HeaderProps = {
   onLogoClick?: () => void
+  onEarlyAccess?: () => void
 }
 
-export function Header({ onLogoClick }: HeaderProps) {
+export function Header({ onLogoClick, onEarlyAccess }: HeaderProps) {
   return (
     <header className="site-header">
       <div className="site-header__inner">
@@ -23,10 +24,14 @@ export function Header({ onLogoClick }: HeaderProps) {
         </a>
 
         <div className="site-header__right">
-          <span className="site-header__badge">Early Access</span>
-          <button type="button" aria-label="Account" className="site-header__account">
-            <img src="/images/icons/Users.png" alt="" />
+          <button 
+            type="button" 
+            className="site-header__badge" 
+            onClick={onEarlyAccess}
+          >
+            Early Access
           </button>
+
         </div>
       </div>
     </header>

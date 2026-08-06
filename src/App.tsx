@@ -13,12 +13,11 @@ export default function App() {
   const [view, setView] = useState<View>('home')
   const [activeLookId, setActiveLookId] = useState<string | null>(null)
   const [signupOpen, setSignupOpen] = useState(false)
-  const [piecesReveal, setPiecesReveal] = useState(false)
 
   const look = getLookById(activeLookId)
 
   useEffect(() => {
-    setPiecesReveal(false)
+    // Clear piecesReveal reset
   }, [activeLookId])
 
   useEffect(() => {
@@ -37,7 +36,7 @@ export default function App() {
     revealElements.forEach((el) => observer.observe(el))
 
     return () => observer.disconnect()
-  }, [view, activeLookId, piecesReveal])
+  }, [view, activeLookId])
 
   const openSignup = () => setSignupOpen(true)
 
@@ -48,7 +47,6 @@ export default function App() {
   }
 
   const openAllItems = () => {
-    setPiecesReveal(true)
     setTimeout(() => {
       document.getElementById('pieces')?.scrollIntoView({
         behavior: 'smooth',
@@ -60,13 +58,12 @@ export default function App() {
   const goHome = () => {
     setView('home')
     setActiveLookId(null)
-    setPiecesReveal(false)
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   return (
     <div className="page">
-      <Header onLogoClick={goHome} />
+      <Header onLogoClick={goHome} onEarlyAccess={openSignup} />
 
       <main key={view === 'home' ? 'home' : activeLookId || 'outfit'} className="page-view">
         {view === 'home' || !look ? (
@@ -87,7 +84,7 @@ export default function App() {
               look={look}
               onOpenItems={openAllItems}
             />
-            <ProductGrid look={look} onBuy={openSignup} reveal={piecesReveal} />
+            <ProductGrid look={look} onBuy={openSignup} reveal={true} />
             <ShopCta onShop={openSignup} />
           </>
         )}
@@ -96,7 +93,7 @@ export default function App() {
       <footer className="site-footer">
         <p className="site-footer__brand">Outfit Theory</p>
         <p className="site-footer__copy">
-          © {new Date().getFullYear()} Outfit Theory — promotion coming soon
+          © {new Date().getFullYear()} Outfit Theory — coming soon
         </p>
       </footer>
 

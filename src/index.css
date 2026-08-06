@@ -114,6 +114,7 @@ button {
 }
 
 .site-header__inner {
+  width: 100%;
   max-width: var(--max-wide);
   margin: 0 auto;
   padding: 1.1rem var(--page-pad);
@@ -145,7 +146,7 @@ button {
 }
 
 .site-header__logo {
-  height: clamp(16px, 1.4vw, 22px);
+  height: clamp(20px, 1.8vw, 28px);
   width: auto;
 }
 
@@ -201,6 +202,19 @@ button {
   /* border-bottom: 1px solid var(--color-border); */
 }
 
+.promo-banner__line {
+  display: block;
+  margin: 1.5rem auto 2.5rem;
+  width: auto;
+  height: clamp(24px, 4vw, 40px);
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .promo-banner__line {
+    display: none;
+  }
+}
 
 .promo-banner__eyebrow {
   font-family: var(--font-ui);
@@ -276,8 +290,14 @@ button {
 
 .looks-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: clamp(1.25rem, 2.5vw, 2.5rem) clamp(0.85rem, 1.5vw, 1.75rem);
+}
+
+@media (min-width: 640px) {
+  .looks-grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .look-card {
@@ -285,6 +305,7 @@ button {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  height: 100%;
 }
 
 .look-card__media {
@@ -313,6 +334,8 @@ button {
   flex-direction: column;
   align-items: center;
   gap: 0.35rem;
+  flex-grow: 1;
+  justify-content: space-between;
 }
 
 .look-card__name {
@@ -331,10 +354,10 @@ button {
 }
 
 .look-card__shop {
-  min-width: clamp(7.5rem, 10vw, 9.5rem);
+  width: 100%;
   height: clamp(2.4rem, 3.2vw, 2.85rem);
   font-size: clamp(0.75rem, 0.85vw, 0.875rem);
-  margin-top: 0.15rem;
+  margin-top: auto;
 }
 
 .shop-all {
