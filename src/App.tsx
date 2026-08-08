@@ -21,6 +21,27 @@ export default function App() {
   }, [activeLookId])
 
   useEffect(() => {
+    // Initialize history state on first load
+    window.history.replaceState({ view: 'home', lookId: null }, '')
+
+    const handlePopState = (event: PopStateEvent) => {
+      if (event.state) {
+        setView(event.state.view || 'home')
+        setActiveLookId(event.state.lookId || null)
+      } else {
+        setView('home')
+        setActiveLookId(null)
+      }
+      // window.scrollTo({ top: 0, behavior: 'smooth' }) // Optional, but usually native back restores scroll. 
+      // If we want to guarantee top scroll on back navigation:
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+    }
+
+    window.addEventListener('popstate', handlePopState)
+    return () => window.removeEventListener('popstate', handlePopState)
+  }, [])
+
+  useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
@@ -41,6 +62,7 @@ export default function App() {
   const openSignup = () => setSignupOpen(true)
 
   const openOutfit = (lookId: string) => {
+    window.history.pushState({ view: 'outfit', lookId }, '')
     setActiveLookId(lookId)
     setView('outfit')
     window.scrollTo({ top: 0, behavior: 'smooth' })
@@ -56,6 +78,9 @@ export default function App() {
   }
 
   const goHome = () => {
+    if (view !== 'home') {
+      window.history.pushState({ view: 'home', lookId: null }, '')
+    }
     setView('home')
     setActiveLookId(null)
     window.scrollTo({ top: 0, behavior: 'smooth' })
